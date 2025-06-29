@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-✨ *Let's build something amazing together!* ✨
+ Let's build something amazing together! 
 </p>
