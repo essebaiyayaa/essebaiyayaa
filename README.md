@@ -11,6 +11,7 @@
 
 -  Currently exploring various areas of software development and always eager to learn more
 -  Always excited to **build meaningful projects** and learn new technologies
+-  Working on improving my skills daily
 
 ---
 
