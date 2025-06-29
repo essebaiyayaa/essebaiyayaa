@@ -9,10 +9,8 @@
 
 ###  **About Me**
 
--  Currently exploring **Laravel, Angular, and Docker**
+-  Currently exploring various areas of software development and always eager to learn more
 -  Always excited to **build meaningful projects** and learn new technologies
--  Ask me about **Java, C, Web & Mobile development**
--  Fun fact: *I love painting and digital art in my free time!*
 
 ---
 
