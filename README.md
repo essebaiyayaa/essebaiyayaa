@@ -6,16 +6,16 @@
 
 ---
 
-### 🌱 **About Me**
+###  **About Me**
 
-- 🌸 Currently exploring **Laravel, Angular, and Docker**
-- 🚀 Always excited to **build meaningful projects** and learn new technologies
-- 💬 Ask me about **Java, C, Web & Mobile development**
-- 🎨 Fun fact: *I love painting and digital art in my free time!*
+-  Currently exploring **Laravel, Angular, and Docker**
+-  Always excited to **build meaningful projects** and learn new technologies
+-  Ask me about **Java, C, Web & Mobile development**
+-  Fun fact: *I love painting and digital art in my free time!*
 
 ---
 
-### 🌐 **Connect with me**
+###  **Connect with me**
 
 <p>
   <a href="http://linkedin.com/in/aya-essebaiy-698a55341/" target="_blank">
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ **Languages and Tools**
+###  **Languages and Tools**
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
