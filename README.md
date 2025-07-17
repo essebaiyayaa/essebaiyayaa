@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aya Essebaiy 👋</h1>
+<h1 align="center">Hi, I'm Aya Essebaiy </h1>
 
 <p align="center">
 🎓 Computer Science Engineering Student at ENSA Tétouan <br>
