@@ -9,9 +9,9 @@
 
 ###  **About Me**
 
--  Currently exploring various areas of software development and always eager to learn more
--  Always excited to **build meaningful projects** and learn new technologies
--  Working on improving my skills daily
+-  Currently exploring various areas of software development and always eager to learn more  
+-  Always excited to **build meaningful projects** and learn new technologies  
+-  Working on improving my skills daily  
 
 ---
 
@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/UML-FFFFFF?style=for-the-badge&logoColor=black" alt="UML"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
