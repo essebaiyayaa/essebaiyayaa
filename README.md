@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Aya Essebaiy </h1>
 
 <p align="center">
-🎓 Computer Science Engineering Student at ENSA Tétouan <br>
-📧 Reach me at: essebaiyaya@gmail.com
+ Computer Science Engineering Student at ENSA Tétouan <br>
+ Reach me at: essebaiyaya@gmail.com
 </p>
 
 ---
