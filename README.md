@@ -10,24 +10,6 @@ You can reach me at [essebaiyaya@gmail.com](mailto:essebaiyaya@gmail.com), find 
 
 ---
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=java,c,cs,php,js,dart&theme=dark" />
-
-**Frameworks & Web**
-<br>
-<img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,dotnet,flutter,html,css&theme=dark" />
-
-**Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle&theme=dark" />
-
-**Tools & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,jira&theme=dark" />
-
----
-
 Here are some things I've built:
 
 - [Medical Cabinet Connector](https://github.com/essebaiyayaa/cabinet-listing-platform) — connects patients with clinics, with role-based spaces and advanced search (Laravel, Tailwind, MySQL)
