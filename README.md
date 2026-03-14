@@ -10,8 +10,8 @@ You can reach me at [essebaiyaya@gmail.com](mailto:essebaiyaya@gmail.com), find 
 
 Here's some things I made that you might like:
 
-- [Medical Cabinet Connector](https://github.com/essebaiyayaa/cabinet-listing-platform) 
 - [Helpora](https://github.com/jih7ne/service-platform)
 - [Multi-Cooperative E-commerce](https://github.com/amosnyirenda123/EcommerceAppCSharp) 
-- [Java Multiplayer Shooter](https://github.com/essebaiyayaa/Solo-Vs-Multi-Shooter-Game) 
+- [Java Multiplayer Shooter](https://github.com/essebaiyayaa/Solo-Vs-Multi-Shooter-Game)
+- [Medical Cabinet Connector](https://github.com/essebaiyayaa/cabinet-listing-platform) 
 - [Docker Dev Environment](https://github.com/essebaiyayaa/Web-Development-Environment-with-Docker)
