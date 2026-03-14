@@ -8,10 +8,10 @@ Currently juggling several projects at once: web apps, school work, and club org
 
 You can reach me at [essebaiyaya@gmail.com](mailto:essebaiyaya@gmail.com), find my work on [LinkedIn](https://linkedin.com/in/aya-essebaiy-698a55341), or check out my [portfolio](https://essebaiy-aya-portfolio.vercel.app).
 
-Here are some things I've built:
+Here's some things I made that you might like:
 
-- [Medical Cabinet Connector](https://github.com/essebaiyayaa/cabinet-listing-platform) — connects patients with clinics, with role-based spaces and advanced search (Laravel, Tailwind, MySQL)
-- [Helpora](https://github.com/jih7ne/service-platform) — service marketplace connecting providers and clients (Laravel, Livewire, Tailwind)
-- [Multi-Cooperative E-commerce](https://github.com/amosnyirenda123/EcommerceAppCSharp) — MVC e-commerce platform for multiple cooperatives (ASP.NET, SQL Server)
-- [Java Multiplayer Shooter](https://github.com/essebaiyayaa/Solo-Vs-Multi-Shooter-Game) — mono/multiplayer game with sockets and GUI (Java Swing, Threads, MySQL)
-- [Docker Dev Environment](https://github.com/essebaiyayaa/Web-Development-Environment-with-Docker) — collaborative setup with Docker, Apache, GitHub and Jira
+- [Medical Cabinet Connector](https://github.com/essebaiyayaa/cabinet-listing-platform) 
+- [Helpora](https://github.com/jih7ne/service-platform)
+- [Multi-Cooperative E-commerce](https://github.com/amosnyirenda123/EcommerceAppCSharp) 
+- [Java Multiplayer Shooter](https://github.com/essebaiyayaa/Solo-Vs-Multi-Shooter-Game) 
+- [Docker Dev Environment](https://github.com/essebaiyayaa/Web-Development-Environment-with-Docker)
