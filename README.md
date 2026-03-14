@@ -2,13 +2,31 @@
 
 4th year Computer Science Engineering student at ENSA Tétouan, Morocco.
 
-I enjoy building things for the web, from patient-clinic connectors to multiplayer games in Java. I like when code actually solves a real problem.
+I enjoy building things for the web, from patient-clinic connectors to multiplayer games in Java. I like being involved in every phase of a project, from requirements and design to implementation and delivery. I like when code actually solves a real problem.
 
 Currently juggling several projects at once: web apps, school work, and club organizing. I'm also exploring DevOps, CI/CD pipelines, and dipping into AI/ML on the side.
 
 You can reach me at [essebaiyaya@gmail.com](mailto:essebaiyaya@gmail.com), find my work on [LinkedIn](https://linkedin.com/in/aya-essebaiy-698a55341), or check out my [portfolio](https://essebaiy-aya-portfolio.vercel.app).
 
-<img src="https://skillicons.dev/icons?i=java,c,cs,php,js,laravel,tailwind,bootstrap,dotnet,mysql,docker,git,linux,jira&theme=dark" />
+---
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=java,c,cs,php,js,dart&theme=dark" />
+
+**Frameworks & Web**
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,dotnet,flutter,html,css&theme=dark" />
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle&theme=dark" />
+
+**Tools & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,jira&theme=dark" />
+
+---
 
 Here are some things I've built:
 
