@@ -8,8 +8,6 @@ Currently juggling several projects at once: web apps, school work, and club org
 
 You can reach me at [essebaiyaya@gmail.com](mailto:essebaiyaya@gmail.com), find my work on [LinkedIn](https://linkedin.com/in/aya-essebaiy-698a55341), or check out my [portfolio](https://essebaiy-aya-portfolio.vercel.app).
 
----
-
 Here are some things I've built:
 
 - [Medical Cabinet Connector](https://github.com/essebaiyayaa/cabinet-listing-platform) — connects patients with clinics, with role-based spaces and advanced search (Laravel, Tailwind, MySQL)
