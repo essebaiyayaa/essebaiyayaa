@@ -1,6 +1,6 @@
 # Hello, nerds
 
-4th year Computer Science Engineering student at ENSA Tétouan, Morocco.
+Final-year Computer Science Engineering student at ENSA Tétouan, Morocco.
 
 I enjoy building things for the web, from patient-clinic connectors to multiplayer games in Java. I like being involved in every phase of a project, from requirements and design to implementation and delivery. I like when code actually solves a real problem.
 
